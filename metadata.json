@@ -1,0 +1,6 @@
+{
+  "name": "Vellum",
+  "description": "An offline-first plain-text notepad with unrestricted editing, automatic saving, and 24 customizable visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
